@@ -13,7 +13,7 @@
         {
             "name": "Olav Morken",
             "email": "olav.morken@uninett.no"
-        },
+        }
     ],
     "autoload": {
         "psr-0": {
